@@ -1,2 +1,2 @@
-# Prost-sait
+# Sait Georgi
 Za stoichev
