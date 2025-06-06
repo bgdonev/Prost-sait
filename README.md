@@ -1,2 +1,1 @@
 # Sait Georgi
-Za stoichev
